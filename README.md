@@ -6,16 +6,9 @@ Here are some ideas to get you started:
 -->
 ![alt text](https://github.com/MMBazel/MMBazel/blob/master/1500x500%20(1).jpeg) 
 
-# Hi there, my name is Miki & I'm a Platform/ ML/ Data/ DevOps/ OpsOps Engineer! 👩🏻‍💻 
+# MLOps & DevRel at Labelbox 👩🏻‍💻 
 > _"Don't let them tame you" - Isadora Duncan_
 
-
-
-## 👩🏻‍💻 What I Do to Pay the Rents 💰 
-
-* Sr MLOps Engineer working on developing, advocating and evangelizing the open-source MLOps ecosystem
-* Content Creation (see bottom links for deets)
-  
 
 ## 🤔  What's On the Brain 🧠 
 
