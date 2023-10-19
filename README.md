@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 -->
-![alt text](https://github.com/MMBazel/MMBazel/blob/master/Screen%20Shot%202022-09-03%20at%203.10.23%20PM.png)
+![alt text](https://github.com/MMBazel/MMBazel/blob/master/1500x500%20(1).jpeg) 
 
 # Hi there, my name is Miki & I'm a Platform/ ML/ Data/ DevOps/ OpsOps Engineer! 👩🏻‍💻 
 > _"Don't let them tame you" - Isadora Duncan_
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
   * ☕ Consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
   
   
-![alt text](https://github.com/MMBazel/MMBazel/blob/master/1500x500%20(1).jpeg) 
+
