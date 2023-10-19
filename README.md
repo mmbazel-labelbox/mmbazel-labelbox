@@ -1,10 +1,51 @@
-- 👋 Hi, I’m @mmbazel-labelbox
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!--
+**MMBazel/MMBazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!---
-mmbazel-labelbox/mmbazel-labelbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here are some ideas to get you started:
+
+-->
+![alt text](https://github.com/MMBazel/MMBazel/blob/master/Screen%20Shot%202022-09-03%20at%203.10.23%20PM.png)
+
+# Hi there, my name is Miki & I'm a Platform/ ML/ Data/ DevOps/ OpsOps Engineer! 👩🏻‍💻 
+> _"Don't let them tame you" - Isadora Duncan_
+
+
+
+## 👩🏻‍💻 What I Do to Pay the Rents 💰 
+
+* Sr MLOps Engineer working on developing, advocating and evangelizing the open-source MLOps ecosystem
+* Content Creation (see bottom links for deets)
+  
+
+## 🤔  What's On the Brain 🧠 
+
+* ✅ Developing scalable, resilient, & reliable production ML systems for companies like Mailchimp;
+* ✅ Creating books, videos, courses, & workshops to teach MLOps best practices & architectures;
+* ✅ Contributing thought leadership around applied ML through organizations like Nvidia;
+* ✅ Hacking projects (both open-source & personal) using best-of-breed tools & practices from software engineering, DevOps, data engineering, & machine learning using Python, SQL, Solidity, GCP, Docker, Kubernetes, etc.
+* ✅ Growing as an effective engineer in Python, Java, C++, Scala
+
+
+## 📫 How to reach me 💬 
+### All socials
+* 👉🏻 Go here for everything: https://bio.link/mikikobazeley
+
+
+### For blog posts, technical walkthroughs, & show notes, find me here:
+* 🕸 Hashnode: https://mikiko.hashnode.dev/
+* 📝 Medium: https://bit.ly/3wKUwym
+* 📬 Substack: https://mikikobazeley.substack.com/
+
+
+### For videos & livestreams hit me up here:
+* 📹 Youtube: https://bit.ly/3MBR8N3
+* 🐥 Twitter: https://twitter.com/BazeleyMikiko
+    * ~~Twitter: https://twitter.com/MikikoBazeley~~ This has been deactivated, use the one above
+* 👾 Twitch: https://bit.ly/3Akmwfe
+ 
+
+## ✨ Like what I'm brewing? ✨
+  * ☕ Consider buying me a coffee!: https://www.buymeacoffee.com/mmbazel ☕
+  
+  
+![alt text](https://github.com/MMBazel/MMBazel/blob/master/1500x500%20(1).jpeg) 
